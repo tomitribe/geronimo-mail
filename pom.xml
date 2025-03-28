@@ -32,7 +32,7 @@
 
     <groupId>org.apache.geronimo</groupId>
     <artifactId>geronimo-mail_2.1_parent</artifactId>
-    <version>1.0.1-TT.1</version>
+    <version>1.0.1-TT.2-SNAPSHOT</version>
 
     <packaging>pom</packaging>
 
@@ -56,7 +56,7 @@
         <connection>scm:git:git@github.com:tomitribe/geronimo-mail.git</connection>
         <developerConnection>scm:git:git@github.com:tomitribe/geronimo-mail.git</developerConnection>
         <url>scm:git:git@github.com:tomitribe/geronimo-mail.git</url>
-        <tag>geronimo-mail_2.1_parent-1.0.1-TT.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
